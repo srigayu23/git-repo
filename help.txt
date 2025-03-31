@@ -1,3 +1,5 @@
 save this commit
 
 run git cmd
+
+merge cmd
