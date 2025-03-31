@@ -3,3 +3,6 @@ save this commit
 run git cmd
 
 merge cmd
+unable to pull 
+
+updating the notes
